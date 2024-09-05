@@ -1,0 +1,12 @@
+.reviews-section .card-img-top {
+    height: 300px; /* Adjust as needed */
+   
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+    border-radius: 2%; /* Makes the image circular (optional) */
+}
+
+.reviews-section .card {
+    border: none; /* Removes card border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a light shadow */
+}
+

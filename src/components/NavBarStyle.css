@@ -1,0 +1,48 @@
+.logoNavBarFistName {
+    color: red;
+    font-weight:900 ;   
+    font-size: 30px;
+}
+.logoNavBarSecondName{
+    font-size: 30px;
+}
+
+.navBarElement{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.buttons {
+    display: inline-block; /* Makes the div fit its content */
+    padding: 5px 10px; /* Adds padding for the button */
+    font-size: 18px; /* Adjusts font size */
+    font-weight: bold; /* Makes the text bold */
+    text-align: center; /* Centers text */
+    color: #fff; /* White text color */
+   
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer; /* Changes cursor to pointer */
+    text-transform: uppercase; /* Uppercase text */
+    letter-spacing: 1px; /* Slightly spaced out letters */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+/* Active State */
+.buttons:active {
+    background-color: #004085; /* Even darker blue when clicked */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shrinks shadow to simulate button press */
+    transform: translateY(2px); /* Moves the button slightly down */
+}
+
+/* Focus State (Optional) */
+.buttons:focus {
+    outline: none; /* Removes default outline */
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5); /* Adds custom outline */
+}
+
+#logIn{
+    background-color: #007bff; /* Blue background color */
+}
+#signUp{
+    background-color: #fd7e14; /* Blue background color */
+}

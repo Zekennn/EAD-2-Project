@@ -1,0 +1,13 @@
+.logoAdminNavBarFistName {
+    color: red;
+    font-weight:900 ;   
+    font-size: 30px;
+}
+
+.logoAdminNavBarSecondName{
+    font-size: 30px;
+}
+.adminEmail {
+    color: yellow;
+    font-size: 15px;
+}

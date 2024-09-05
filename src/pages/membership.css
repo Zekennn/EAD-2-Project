@@ -1,0 +1,30 @@
+.membershipBody{
+    background-color: #dee2e6;
+}
+  
+  .membership-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly opaque white background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .membership-container h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .membership-card {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .membership-card .card-title {
+    font-weight: bold;
+    font-size: 1.25rem;
+  }
+  
+  .membership-card .card-text {
+    margin-bottom: 10px;
+  }
+  

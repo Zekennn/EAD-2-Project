@@ -1,0 +1,19 @@
+
+
+.services-section .card {
+    border: none;
+    box-shadow: 0 0 10px rgba(128, 110, 110, 0.1); /* Light shadow for card effect */
+}
+
+.services-section .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.services-section .card-text {
+    font-size: 1rem;
+}
+.services-section .card-img-top {
+    height: 400px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+}

@@ -1,0 +1,36 @@
+.aboutUsBody {
+    background-color: #dee2e6;
+  }
+  
+  .about-us-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly opaque white background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+  }
+  
+  .about-us-container h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .about-us-container p {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .about-us-container .card {
+    margin-bottom: 20px;
+  }
+  
+  .about-us-container .card-title {
+    font-weight: bold;
+  }
+  
+  .about-us-container .card-text {
+    font-size: 14px;
+  }
+  

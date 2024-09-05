@@ -1,0 +1,37 @@
+.contactUsBody{
+    
+    background-color: #dee2e6;
+    height: 100vh;
+  }
+  
+  .contact-us-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly opaque white background */
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 80px;
+  }
+  
+  .contact-us-container h3 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .contact-us-container .form-control {
+    border-radius: 5px;
+  }
+  
+  .contact-us-container .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 5px;
+  }
+  .contact-us-container h3 {
+    margin-bottom: 30px;
+  }
+  .contact-us-container p {
+    font-size: 16px;
+    margin-top: 30px;
+  }
+  
